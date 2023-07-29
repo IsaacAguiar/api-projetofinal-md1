@@ -1,40 +1,8 @@
 {
 {
-  "Mentores": [
-    {
-      "nome": "Isaac",
-      "email": "isaacgoncales@gmail.com",
-      "id": 1
-    }
-  ],
-  "Mentorias": [
-    {
-      "titulo": "Título da Mentoria 1",
-      "mentor": "Isaac",
-      "status": "Ativo",
-      "id": 1
-    }
-  ],
-  "Turmas": [
-    {
-      "mentoria": "Título da Mentoria 1",
-      "mentor": "Isaac",
-      "dataInicio": "03/06/2023",
-      "dataSemana": "Terça",
-      "turma": "b",
-      "titulo": "b",
-      "encontros": "b",
-      "horario": "b - b",
-      "id": 1
-    }
-  ],
-  "Alunos": [
-    {
-      "nomeAluno": "b",
-      "emailAluno": "b@gmail.com",
-      "turmaAluno": "b",
-      "id": 1
-    }
-  ]
+  "Mentores": []
+  "Mentorias": [],
+  "Turmas": [],
+  "Alunos": []
 }
 }
